@@ -1,0 +1,10 @@
+Metric,Value
+Nodes,141562.0
+Edges,4853728.0
+Components,2906.0
+Largest CC size,133689.0
+Avg degree,68.57388282166119
+Min degree centrality,7.064092511355529e-06
+Max degree centrality,0.025437797133391258
+Mean degree centrality,0.00048441225211506833
+Avg shortest path (sampled),3.7966364716260035

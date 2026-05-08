@@ -1,0 +1,17 @@
+[project]
+name = "project"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "ndlib>=5.1.1",
+    "networkx>=3.6.1",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "powerlaw>=2.0.0",
+    "pyarrow>=24.0.0",
+    "pymupdf>=1.27.2.3",
+    "pypandoc-binary>=1.17",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+]
